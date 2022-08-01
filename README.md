@@ -15,7 +15,7 @@
 
         aws configure
 
-2. Now, from the current directory run the following command to create a security group.
+2. Now, from the current directory run the following command to delete the s3 policy.
 
         python3 delete_s3_policy.py
 
